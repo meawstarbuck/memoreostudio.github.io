@@ -8,4 +8,4 @@ languageCode = "en-us"
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true  
+      unsafe = true
