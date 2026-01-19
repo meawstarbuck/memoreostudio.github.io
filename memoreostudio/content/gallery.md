@@ -10,7 +10,6 @@ viewerOptions : {
     title: false
     # you can add more options here. refer https://github.com/fengyuanchen/viewerjs?tab=readme-ov-file#options
 }
-
 ---
 
 ### Portfolio
@@ -20,50 +19,26 @@ viewerOptions : {
   <button onclick="filterImages('solo')" class="btn-filter" style="background: #f4f4f4; border: none; padding: 8px 20px; border-radius: 20px; cursor: pointer; margin: 5px;">Solo & Lifestyle</button>
   <button onclick="filterImages('graduation')" class="btn-filter" style="background: #f4f4f4; border: none; padding: 8px 20px; border-radius: 20px; cursor: pointer; margin: 5px;">Graduation</button>
   <button onclick="filterImages('couple')" class="btn-filter" style="background: #f4f4f4; border: none; padding: 8px 20px; border-radius: 20px; cursor: pointer; margin: 5px;">Couple & Wedding</button>
-  <button onclick="filterImages('family')" class="btn-filter" style="background: #f4f4f4; border: none; padding: 8px 20px; border-radius: 20px; cursor: pointer; margin: 5px;">Family</button>
 </div>
 
-<div id="portfolio-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 15px;">
-  
-  <div class="portfolio-item solo">
-    <img src="/images/christmas_market_1.jpg" style="width:100%; height: 350px; object-fit: cover; border-radius:10px;">
-  </div>
-  <div class="portfolio-item solo">
-    <img src="/images/christmas_market_2.jpg" style="width:100%; height: 350px; object-fit: cover; border-radius:10px;">
-  </div>
-  <div class="portfolio-item solo">
-    <img src="/images/christmas_market_3.jpg" style="width:100%; height: 350px; object-fit: cover; border-radius:10px;">
-  </div>
+{{< gallery-data >}}
 
-  <div class="portfolio-item graduation">
-    <img src="/images/Graduation.jpg" style="width:100%; height: 350px; object-fit: cover; border-radius:10px;">
-  </div>
-  
-  <div class="portfolio-item couple">
-    <img src="/images/wedding.jpg" style="width:100%; height: 350px; object-fit: cover; border-radius:10px;">
-  </div>
-
-  <div class="portfolio-item family">
-    <img src="/images/family.jpg" style="width:100%; height: 350px; object-fit: cover; border-radius:10px;">
-  </div>
-  
-</div>
 
 <script>
 function filterImages(category) {
   const items = document.getElementsByClassName('portfolio-item');
   const buttons = document.getElementsByClassName('btn-filter');
   
-  // จัดการการแสดงผลรูปภาพ
-  if (category === 'all') {
-    for (let item of items) { item.style.display = 'block'; }
-  } else {
-    for (let item of items) {
-      item.style.display = item.classList.contains(category) ? 'block' : 'none';
+  // แสดง/ซ่อน รูปตามหมวดหมู่
+  for (let item of items) {
+    if (category === 'all' || item.classList.contains(category)) {
+      item.style.display = 'block';
+    } else {
+      item.style.display = 'none';
     }
   }
 
-  // เพิ่มลูกเล่น: เปลี่ยนสีปุ่มที่ถูกเลือก (Optional)
+  // เปลี่ยนสีปุ่มที่กดให้เด่นขึ้น
   for (let btn of buttons) {
     btn.style.background = '#f4f4f4';
     btn.style.color = 'black';

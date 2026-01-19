@@ -30,7 +30,7 @@ Menus:
       weight: 1
     - identifier: services
       name: Services
-      url: services
+      url: /services
       weight: 2
 
 params:

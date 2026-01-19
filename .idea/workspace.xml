@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba0bc079-3946-4248-8c40-b72340db4aee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/memoreostudio/hugo.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/hugo.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/blogs/emoji-support/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/blogs/emoji-support/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/blogs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/blogs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/blogs/markdown-syntax/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/blogs/markdown-syntax/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/blogs/math/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/blogs/math/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/blogs/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/blogs/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/blogs/placeholder-text/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/blogs/placeholder-text/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/blogs/rich-content/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/blogs/rich-content/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/gallery/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/gallery/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/posts/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/posts/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/services/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/services/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/tags/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/tags/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/tags/emoji-support/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/tags/emoji-support/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/tags/example/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/tags/example/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/tags/example/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/tags/example/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/tags/london/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/tags/london/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/tags/markdown-syntax/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/tags/markdown-syntax/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/tags/mathjax/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/tags/mathjax/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/tags/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/tags/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/tags/page/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/tags/page/3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/tags/page/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/tags/page/4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/tags/photography/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/tags/photography/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/tags/placeholder-text/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/tags/placeholder-text/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/tags/price/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/tags/price/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/tags/rich-content/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/tags/rich-content/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/tags/sample/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/tags/sample/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/memoreostudio/public/tags/sample/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/memoreostudio/public/tags/sample/page/2/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="38RBPRW0mqT0aQ4XfR23NNrtf5A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba0bc079-3946-4248-8c40-b72340db4aee" name="Changes" comment="" />
+      <created>1768752480586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768752480586</updated>
+    </task>
+    <servers />
+  </component>
+</project>
